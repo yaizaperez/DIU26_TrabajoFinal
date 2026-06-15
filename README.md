@@ -1,8 +1,6 @@
 # Trabajo final DIU 2025/26
-## Portfolio UX y resolución de un supuesto práctico
 
 > **Autora:** Yaiza Pérez Ocaña :octocat:
----
  
 ## Índice
  
@@ -12,6 +10,7 @@
    - [2b. Propuesta de valor para el Ecomercado UGR](#2b-propuesta-de-valor-para-el-ecomercado-ugr)
    - [2c. Autoevaluación](#2c-autoevaluación--qué-apliqué-y-qué-me-faltó)
 3. [Referencias](#referencias)
+
 ---
  
 # PARTE I: Mi Experiencia UX
