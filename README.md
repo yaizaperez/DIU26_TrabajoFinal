@@ -1,8 +1,6 @@
 # Trabajo final DIU 2025/26
 
 > **Autora:** Yaiza Pérez Ocaña :octocat:
-
-<br>
  
 ## Índice
  
@@ -14,8 +12,6 @@
 3. [Referencias](#referencias)
 
 ---
-
- <br>
  
 # PARTE I: Mi Experiencia UX
  
