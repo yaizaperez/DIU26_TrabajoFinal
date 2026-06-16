@@ -71,3 +71,56 @@ La conclusión más relevante fue que la experiencia de usuario no depende únic
 ---
  
 ## 2. Aportaciones destacadas de las prácticas
+El caso práctico fue el proyecto **Ramen や Noodles Pa'ya**, una propuesta de plataforma web para un restaurante temático japonés en Granada que combina gastronomía y comunidad social (eventos de anime, grupos para ir a comer, foro de comunidad).
+
+### Práctica 1: User & Desk Research y Análisis Contextual
+El punto de partida del diseño UX es comprender al usuario y el contexto competitivo, ya que diseñar sin esta base conduce a decisiones basadas en intuición y no en necesidades reales.
+
+El análisis competitivo incluyó tres referentes del sector, lo que permitió identificar una oportunidad clara: la mayoría de competidores presentaban problemas de accesibilidad o una integración limitada de funcionalidades, y ninguno incorporaba una dimensión social o de comunidad como la propuesta en Pa’ya. 
+
+Las personas y los User Journey Maps sirvieron como herramientas de decisión durante el diseño, transformando los datos en criterios aplicables.
+
+El Usability Review de Buga Ramen (64/100) estableció una línea base objetiva, convirtiendo los problemas detectados en métricas concretas y comparables para orientar las mejoras del diseño.
+
+### Práctica 2: Ideación y Estructura de la Experiencia
+En esta fase, el objetivo fue definir la estructura del producto antes de entrar en el diseño visual, asegurando que la experiencia respondiera a las necesidades detectadas en la investigación.
+
+Se utilizaron herramientas como el Feedback Capture Grid y el Scope Canvas para priorizar funcionalidades clave, como el filtrado de alérgenos, el flujo de reserva y el acceso a la comunidad, diferenciándolas de elementos secundarios.
+
+El sitemap permitió establecer la jerarquía de información del sistema, asegurando que la estructura fuese coherente con la forma en la que los usuarios buscan y organizan la información.
+
+Los user flows y la User Task Matrix ayudaron a modelar distintos recorridos según tipo de usuario, mientras que los wireframes de baja fidelidad facilitaron el análisis de la estructura sin distracciones visuales, permitiendo iterar rápidamente sobre la arquitectura de la información.
+
+### Práctica 3: Diseño Visual y Prototipado (Mockups)
+El diseño visual de Pa’ya se definió a partir de una pregunta concreta: ¿qué debe sentir el usuario al abrir esta web?. El moodboard sirvió para alinear la dirección visual del producto.
+
+A partir de esta base se desarrollaron guidelines de diseño y un sistema de componentes UI reutilizables, priorizando la consistencia y la escaneabilidad de la interfaz. El uso de espacios en blanco y principios de la jerarquía visual permitió reducir la sobrecarga visual y mejorar la comprensión de la información.
+
+### Práctica 4: Exportación
+El sistema de diseño se trasladó a un entorno funcional mediante la creación de componentes modulares en React, asegurando una interfaz responsive y escalable.
+
+Este trabajo se complementó con la documentación en Storybook, donde se definieron los componentes de forma aislada junto a sus distintos estados. Esto permitió convertir el diseño en un sistema reutilizable y mantenible, reduciendo inconsistencias entre diseño e implementación.
+
+La exportación a código evidenció además la diferencia entre diseño teórico y viabilidad técnica, facilitando una mejor alineación entre diseño y desarrollo.
+
+### Práctica 5: Pruebas de Evaluación
+Se realizaron pruebas comparativas entre el Caso A (Pa’ya) y el Caso B, utilizando el cuestionario SUS como métrica principal. Los resultados mostraron una clara diferencia de usabilidad, con 87.5 en Pa’ya frente a 49.0 en el Caso B, lo que indica una mayor facilidad de uso y menor fricción en la interacción.
+
+El análisis por perfiles permitió identificar que las dificultades en Pa’ya se concentraban únicamente en usuarios con baja experiencia digital, mientras que en el Caso B los problemas se mantenían incluso en usuarios con experiencia media-alta, lo que sugiere fallos de diseño más estructurales.
+
+Los resultados se complementaron con eye tracking, donde se observó una navegación más directa y eficiente en Pa’ya, frente a una mayor dispersión visual en el Caso B. Esto coincidió con los tiempos de tarea y las puntuaciones del SUS, reforzando la validez de los resultados obtenidos.
+
+---
+
+## 3. (Auto)valoración de las competencias UX adquiridas
+Tras completar la asignatura, considero que he pasado de entender la teoría del UX a aplicarla en proyectos reales de diseño digital. Mi nivel actual lo situaría como intermedio-alto, con una base sólida en las principales fases del proceso de diseño centrado en el usuario.
+
+- Comprensión del usuario: He aprendido a analizar usuarios, detectar sus necesidades y traducirlas en perfiles y recorridos que ayudan a guiar las decisiones de diseño.
+
+- Análisis de interfaces: Soy capaz de evaluar diseños de forma objetiva, identificando problemas de usabilidad y justificando mejoras a partir de principios básicos de UX.
+
+- Estructura y diseño del producto: He desarrollado la capacidad de organizar la información y evolucionar desde ideas iniciales hasta prototipos más completos y funcionales.
+
+- Evaluación con usuarios: He trabajado con pruebas reales de usabilidad, utilizando cuestionarios y observación del comportamiento para comprobar si el diseño funciona en la práctica.
+
+En general, me siento capaz de participar en un proceso de diseño UX completo, aunque todavía tengo margen de mejora en la validación más profunda de datos y en el uso de técnicas más avanzadas de investigación.
