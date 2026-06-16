@@ -124,3 +124,9 @@ Tras completar la asignatura, considero que he pasado de entender la teoría del
 - Evaluación con usuarios: He trabajado con pruebas reales de usabilidad, utilizando cuestionarios y observación del comportamiento para comprobar si el diseño funciona en la práctica.
 
 En general, me siento capaz de participar en un proceso de diseño UX completo, aunque todavía tengo margen de mejora en la validación más profunda de datos y en el uso de técnicas más avanzadas de investigación.
+
+---
+
+# PARTE II: Caso de estudio-Propuesta de diseño ECO MERCADO UGR
+ 
+## Contexto del Ecomercado UGR
