@@ -121,4 +121,4 @@ En general, me siento capaz de participar en un proceso de diseño UX completo, 
 
 # PARTE II: Caso de estudio-Propuesta de diseño ECO MERCADO UGR
  
-## Contexto del Ecomercado UGR
+## 2a. Análisis de Nuestras Huertas
